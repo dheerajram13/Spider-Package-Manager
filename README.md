@@ -43,7 +43,13 @@ python app.py
 
   ![](images/img1.png) 
   ![](images/img2.png) 
-
+  ![](images/img3.png) 
+  ![](images/demo.gif) 
+  
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+  
+  
 ## Authors
 
 * **Srirama Dheeraj** - [DheerajRam13](https://github.com/dheerajram13/)
