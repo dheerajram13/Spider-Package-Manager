@@ -40,11 +40,14 @@ python app.py
 * [Python](https://www.python.org/)  
 
 ## Screenshots
-
-  ![Main Screen](Images/img1.png) 
+ * Main Screen 
+  ![](Images/img1.png) 
+ * Download Started  
   ![](Images/img2.png) 
+ * Downnload Completed  
   ![](Images/img3.png) 
-  ![Working Demo](Images/demo.gif) 
+ * Woking Demo 
+  ![](Images/demo.gif) 
   
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
