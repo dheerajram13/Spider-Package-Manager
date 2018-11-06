@@ -28,7 +28,7 @@ A step by step series of examples that tell you how to get a development env run
   
 ```
 
-* Copy the chorome.exe path example "C:\Users\lenovo\PycharmProjects\Software Downloader\src\chromedriver.exe"
+* Copy the chrome.exe path example "C:\Users\lenovo\PycharmProjects\Software Downloader\src\chromedriver.exe"
 
 * and paste in it in the src/app.py [Line: 47]
 
