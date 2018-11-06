@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Install the [Python](https://www.python.org/) in your PC.
 * Install the [pip](https://pypi.org/project/pip/)
+* Download the chrome driver(http://chromedriver.chromium.org/downloads)
 
 ### Installing
 
@@ -27,8 +28,12 @@ A step by step series of examples that tell you how to get a development env run
   
 ```
 
+* Copy the chorome.exe path example "C:\Users\lenovo\PycharmProjects\Software Downloader\src\chromedriver.exe"
 
-* open terminal or powershell and enter the below command
+* and paste in it in the src/app.py [Line: 47]
+
+
+
 
 ```
 python app.py
@@ -38,6 +43,9 @@ python app.py
 ## Built With
 
 * [Python](https://www.python.org/)  
+* [Chrome Driver](http://chromedriver.chromium.org/)
+* [Selenium](https://www.seleniumhq.org/)
+* [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ## Screenshots
  * Main Screen 
