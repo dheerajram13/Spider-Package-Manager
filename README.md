@@ -41,10 +41,10 @@ python app.py
 
 ## Screenshots
 
-  ![](images/img1.png) 
-  ![](images/img2.png) 
-  ![](images/img3.png) 
-  ![](images/demo.gif) 
+  ![](Images/img1.png) 
+  ![](Images/img2.png) 
+  ![](Images/img3.png) 
+  ![](Images/demo.gif) 
   
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
