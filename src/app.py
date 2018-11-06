@@ -41,7 +41,7 @@ if software_name[0] == "spider" and software_name[1] == "install" and software_n
     # driver = webdriver.PhantomJS(executable_path=r"C:\phantomjs-2.1.1-windows\bin\phantomjs")
     # driver = webdriver.Chrome(chrome_options=chrome_options, executable_path="E:\chromedriver.exe")
 
-    driver = webdriver.Chrome(r"C:\Users\lenovo\PycharmProjects\Software Downloader\src\chromedriver.exe")
+    driver = webdriver.Chrome(r"CHROME DRIVER PATH")
     driver.get('https://filehippo.com/')
     search = driver.find_element_by_xpath('//*[@id="header-collapse"]/form/div/input')
     crawl_software_name = software_name[2]
