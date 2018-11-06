@@ -1,6 +1,8 @@
 beautifulsoup4==4.5.3
 pyspider==0.3.9
 pywin32==220
+selenium==3.5.0
+seleniumwrapper==0.5.4
 tqdm==4.15.0
 wget==3.2
 win32core==221.36
