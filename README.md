@@ -1,5 +1,5 @@
 # Spider Package Manager
-Designed and developed a package manager for Windows Operating Systems with security permissions.
+Designed and developed a package manager for Windows Operating System.
 
 ## Getting Started
 
