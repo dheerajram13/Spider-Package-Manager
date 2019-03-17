@@ -47,6 +47,14 @@ python app.py
 * [Selenium](https://www.seleniumhq.org/)
 * [Pycharm](https://www.jetbrains.com/pycharm/)
 
+## Todo
+
+* To create exe for this SPM.
+* To set this program as a path in Environment Variables.
+* Add colors for the CLI.
+
+
+
 ## Screenshots
  * Main Screen 
   ![](Images/img1.png) 
